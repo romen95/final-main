@@ -1,6 +1,6 @@
 module main
 
-go 1.21.1
+go 1.21
 
 require modernc.org/sqlite v1.29.5
 
